@@ -1,5 +1,5 @@
 {
-  "name": "shanbot",
+  "name": "PenthaBot",
   "version": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
@@ -13,11 +13,9 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "bot",
     "whatsapp",
-    "bot"
   ],
-  "author": "Shan",
+  "author": "Mora",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
@@ -38,10 +36,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shanduy/ShanBot.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/shanduy/ShanBot.git"
+    "url": "."
   },
-  "homepage": "https://github.com/shanduy/ShanBot#readme"
+  "homepage": "."
 }
